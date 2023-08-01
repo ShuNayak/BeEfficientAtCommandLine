@@ -12,8 +12,6 @@ A command-line is any kind of interface that can be used by inputting text comma
 
 ---
 
----
-
 # How to approach this study material?
 
 1. Read through the study material
