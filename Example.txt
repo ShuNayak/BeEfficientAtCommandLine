@@ -1,0 +1,14 @@
+Mango	Apple	Banana	Duruan,Indinesia	1000
+Spinach	Kale	Asparagus	aragula,Japan	3000
+MicroSpinach	Squash	butternut	walnut,Africa	5000
+ButterFruit	Papaya,NutBar	Durian,Hello Yam 50000
+ButterFruit     Papaya,NutBar   Durian,Hello Yam 50000
+ButterFruit     Papaya,NutBar   Durian,Hello Yam 50000
+ButterFruit     Papaya,NutBar   Durian,Hello Yam 50000
+JapaneseYam Yamamama;NuttyPutty Mushrooms;HellPopeye 40000
+Mango   Apple   Banana  Duruan,Indinesia        1000
+Mango   Apple   Banana  Duruan,Indinesia        1000
+Mango   Apple   Banana  Duruan,Indinesia        1000
+Mango   Apple   Banana  Duruan,Indinesia        1000
+Mango   Apple   Banana  Duruan,Indinesia        1000
+Appbrakadabra babababa//dadadad banana India 40000
